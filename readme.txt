@@ -1,0 +1,1 @@
+A simple plugin to add public profiles to Mura CMS.
